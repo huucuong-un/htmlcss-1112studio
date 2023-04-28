@@ -123,7 +123,7 @@ p {
 }
 
 .about-box img{
-    width: 100%;
+    width: 80%;
     border-radius: 50%;
 }
 
@@ -219,4 +219,10 @@ p {
 
 #footer p {
     margin-top: 25px;
+}
+
+@media (max-width: 768px) {
+    .about-team img {
+        width: 40%;
+    }
 }
