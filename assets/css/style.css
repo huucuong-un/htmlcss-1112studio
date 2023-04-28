@@ -221,7 +221,7 @@ p {
     margin-top: 25px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
     .about-team img {
         width: 40%;
     }
